@@ -9,7 +9,7 @@ def my_hash
 end
 
 def pioneer
-  # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
+  p_hash = {:name => 'Grace Hopper'}
 end
 
 def id_generator
